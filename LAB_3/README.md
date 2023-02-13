@@ -41,60 +41,106 @@ Since you are using functions, plan what should be the returning values and how 
 OUTPUT:
 
 
+
+
 1> Add Student
+
 2> Display the details of the student
+
 3> Exit :( 
+
+
 
 
 Enter your choice: 1
 
 
+
+
+
 Enter student's name: Akash
+
 Enter student's register number: 22122055
+
 Enter student's email: akash@gmail.com
+
 Enter student's class: 2msds(A)
+
 Enter student's department: Msc DS
+
 Student details added successfully.....!!
 
 
 
+
+
 1> Add Student
+
 2> Display the details of the student
+
 3> Exit :( 
 
 
+
+
 Enter your choice: 2
+
+
 
 
 Enter student name to display details: Akash
 
+
+
 Name: Akash
+
 Register Number: 22122055
+
 Email: akash@gmail.com
+
 Class: 2msds(A)
+
 Department: Msc DS
 
 
 
+
+
 1> Add Student
+
 2> Display the details of the student
+
 3> Exit :( 
+
+
 
 
 Enter your choice: 2
 
 
+
+
 Enter student name to display details: Akasj
+
+
 
 Student's name is not found.....!!
 
 
 
+
+
 1> Add Student
+
 2> Display the details of the student
+
 3> Exit :( 
 
 
+
+
 Enter your choice: 3
+
+
 
 (base) aakash@Aakashs-MacBook-Air JAVA % 
