@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LAB_3 {
+public class lab_3 {
 
     // creating array:
 
