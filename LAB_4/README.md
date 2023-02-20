@@ -32,3 +32,86 @@ To deposit money
 To withdraw money
 To print the transactions
 To print account summary
+
+
+
+OUTPUT:
+
+
+- - - - - - - - - MENU - - - - - - - - -
+ 1. Deposit Money 
+ 2. Withdraw Money 
+ 3. Print All the transctions. 
+ 4. Print Account Summary.
+ 5. Logout. 
+- - - - - - - - - - - - - - - - - -
+
+
+
+1
+
+
+Enter the amount to deposit the money: 1000
+- - - - - - - - - MENU - - - - - - - - -
+ 1. Deposit Money 
+ 2. Withdraw Money 
+ 3. Print All the transctions. 
+ 4. Print Account Summary.
+ 5. Logout. 
+- - - - - - - - - - - - - - - - - -
+
+
+
+2
+
+
+Enter the amount to withdraw the money: 
+40
+- - - - - - - - - MENU - - - - - - - - -
+ 1. Deposit Money 
+ 2. Withdraw Money 
+ 3. Print All the transctions. 
+ 4. Print Account Summary.
+ 5. Logout. 
+- - - - - - - - - - - - - - - - - -
+
+
+
+3
+
+
+Transction details are: 
+Money deposit : 1000.0 Time 11:30:07.579677 Previous bal: 1230000.0 New bal1231000.0
+Money Withdraw : 40.0 Time 11:30:19.261601 Previous bal: 1231000.0 New bal1230960.0
+- - - - - - - - - MENU - - - - - - - - -
+ 1. Deposit Money 
+ 2. Withdraw Money 
+ 3. Print All the transctions. 
+ 4. Print Account Summary.
+ 5. Logout. 
+- - - - - - - - - - - - - - - - - -
+
+
+
+4
+
+
+welcome Aakash
+Current Login Time: 11:30:29.311828
+ Your Account number is 111222333
+Yout total account balance is :1230960.0
+- - - - - - - - - MENU - - - - - - - - -
+ 1. Deposit Money 
+ 2. Withdraw Money 
+ 3. Print All the transctions. 
+ 4. Print Account Summary.
+ 5. Logout. 
+- - - - - - - - - - - - - - - - - -
+
+
+
+5
+
+
+Thanks for visiting....!!!
+(base) aakash@Aakashs-MacBook-Air JAVA % 
