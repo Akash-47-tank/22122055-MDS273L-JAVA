@@ -1,3 +1,21 @@
+Name : Tank Akash Rameshbhai 
+
+Reg. no : 22122055 
+
+Email : tank.akash@msds.christuniversity.in 
+
+Class : 2MSCDS(A)
+
+
+
+
+
+LAB : 5
+
+
+
+
+
 
 
 Below is an encryption/decryption standard in which the letters in the message will be replaced with the letters in the cypher row
