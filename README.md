@@ -21,6 +21,19 @@ Provide necessary validations that the user enters only valid names that are not
 Removing a name should not create empty space inside the array!
 Format your results properly!!
  
+ 
+ Flow-Chart:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img width="683" alt="Screenshot 2023-04-30 at 4 49 23 PM" src="https://user-images.githubusercontent.com/113900848/235350373-3c1131c5-0f43-486c-a6ba-10b5290344ef.png">
+
+ 
+ 
  OUTPUT:
 
 -----------------------------
