@@ -34,6 +34,13 @@ To print the transactions
 To print account summary
 
 
+Flow-Chart:
+
+
+<img width="844" alt="Screenshot 2023-04-30 at 5 23 47 PM" src="https://user-images.githubusercontent.com/113900848/235351545-591e0fdb-4350-4ced-8c11-0ade8479327f.png">
+
+
+
 
 OUTPUT:
 
