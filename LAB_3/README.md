@@ -38,6 +38,13 @@ Plan your program with a flow chart before starting with coding.
 Since you are using functions, plan what should be the returning values and how to implement them.
 
 
+Flow-Chart:
+
+<img width="707" alt="Screenshot 2023-04-30 at 5 10 51 PM" src="https://user-images.githubusercontent.com/113900848/235351114-4f2b7e20-5a5f-441f-9ef9-21e893efded7.png">
+
+
+
+
 OUTPUT:
 
 
