@@ -19,6 +19,12 @@ Once the overall summary statistics have been calculated, identify the summary s
 Present your results in the appropriate format and write the results in a file.
 
 
+FLOW CHART : 
+
+<img width="442" alt="Screenshot 2023-05-11 at 2 28 43 PM" src="https://github.com/Akash-47-tank/22122055-MDS273L-JAVA/assets/113900848/eac4a228-d82f-4b8a-a3bd-db13f7f9ca15">
+
+
+
 OUTPUT : 
 
 
