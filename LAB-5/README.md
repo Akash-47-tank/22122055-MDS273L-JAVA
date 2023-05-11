@@ -8,12 +8,13 @@ Class : 2MSCDS(A)
 
 
 
-
-
 LAB : 5
 
 
+FLOW CHART :
 
+
+<img width="457" alt="Screenshot 2023-05-11 at 2 11 33 PM" src="https://github.com/Akash-47-tank/22122055-MDS273L-JAVA/assets/113900848/6dfdab0d-ea0e-4163-aab3-5af02006de1e">
 
 
 
