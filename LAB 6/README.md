@@ -52,6 +52,8 @@ Update the changes to the GitHub website and submit the URL.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
+FLOW-CHART:
 
+<img width="956" alt="Screenshot 2023-05-13 at 7 30 18 PM" src="https://github.com/Akash-47-tank/22122055-MDS273L-JAVA/assets/113900848/5f422185-930c-45ce-a35c-5f34dec69d87">
 
 
